@@ -1,2 +1,2 @@
-# JavaScript
-練習 js 的紀錄
+# Leetcode
+練習 leetcode 的紀錄
